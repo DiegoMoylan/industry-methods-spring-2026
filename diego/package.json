@@ -1,9 +1,12 @@
 {
-  "name": "blackjack-app",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
+    "name": "diego",
+    "version": "1.0.0",
+    "description": "Workspace for Diego",
+    "license": "ISC",
+    "author": "Diego Moylan",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
